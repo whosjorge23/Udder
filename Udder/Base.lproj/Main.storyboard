@@ -32,6 +32,14 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1_SAXjEa1B--nFZc96vGfydA" translatesAutoresizingMaskIntoConstraints="NO" id="xMM-i7-A1Z">
+                                <rect key="frame" x="56" y="283" width="302" height="161"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="1_k_oaGgpBep8Fxa18EdMRUg" translatesAutoresizingMaskIntoConstraints="NO" id="Ub2-gm-PoA">
+                                <rect key="frame" x="56" y="452" width="302" height="161"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -39,6 +47,11 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="47.826086956521742" y="20.758928571428569"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="1_SAXjEa1B--nFZc96vGfydA" width="700" height="394"/>
+        <image name="1_k_oaGgpBep8Fxa18EdMRUg" width="700" height="393"/>
+    </resources>
 </document>
